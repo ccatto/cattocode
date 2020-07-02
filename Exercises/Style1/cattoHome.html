@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Catto Bootstrap Flexbox Simple Page Layout 6.30.20</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Bootstrap Files -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+	<!-- Page CSS -->
+	<link rel="stylesheet" href="css/page.css">
+	
+	<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header class="catto-bg-orange catto-font-weight-200">
+		<h1>Header</h1>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="#">Navbar</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			  <span class=".navbar-light navbar-toggler-icon "></span>
+			</button>
+		  
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			  <ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+				  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="#">Link</a>
+				</li>
+				<li class="nav-item dropdown">
+				  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					Dropdown
+				  </a>
+				  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+					<a class="dropdown-item" href="#">Action</a>
+					<a class="dropdown-item" href="#">Another action</a>
+					<div class="dropdown-divider"></div>
+					<a class="dropdown-item" href="#">Something else here</a>
+				  </div>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link disabled" href="#">Disabled</a>
+				</li>
+			  </ul>
+			  <form class="form-inline my-2 my-lg-0">
+				<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+				<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+			  </form>
+			</div>
+		</nav>
+	</header>
+	<main class="d-flex flex-row ">
+		<div class="catto-width-2per catto-horizontal-black-orange-black"></div>
+		<div class="catto-font-weight-200 catto-width-98per catto-bg-blue catto-height-200px">
+			<p>body</p>
+			<ul>
+				<li>add titllium google web fonrt extra-light</li>
+			</ul>
+		</div>
+		<div class="catto-width-2per catto-horizontal-black-to-orange"></div>
+	</main>
+	<footer class="container-fluid">
+		<div class="fixed-bottom  catto-bg-gray catto-height-200px">
+			<p>footer</p>
+		</div>
+	</footer>
+	<!-- Bootstrap Files -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+.w-20{
+	width: 20%!important;
+}
+
+.cattoOrange{
+    color: orange;
+    font-size: 20px;
+}
+
+.cattoTestBox{
+	background-color: orange;
+	border: 1px solid blue;
+	padding: 10px 20px;
+}
+
+.cattoHeader{
+	height: 200px;
+}
+
+.catto-bg-orange{
+	background-color: orange;
+}
+.catto-bg-blue{
+	background-color: blue;
+}
+.catto-bg-gray{
+	background-color: gray;
+}
+.catto-width-2per{
+	width:2%;
+}
+.catto-width-98per{
+	width:98%;
+}
+.catto-horizontal-orange-to-black {
+	background: linear-gradient(to right, orange, black);
+}
+.catto-horizontal-black-to-orange {
+	background: linear-gradient(to right, black, orange );
+}
+.catto-horizontal-black-orange-black {
+	background: linear-gradient(to right, black, orange, black );
+}
+.catto-height-200px{
+	height: 200px;
+}
+body {
+	font-family: 'Titillium Web', sans-serif;
+}
+.catto-font-weight-200 {
+	font-weight: 200;
+}
+.catto-font-weight-300 {
+	font-weight: 300;
+}

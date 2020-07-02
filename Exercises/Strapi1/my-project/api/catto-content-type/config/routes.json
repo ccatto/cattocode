@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/catto-content-types",
+      "handler": "catto-content-type.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/catto-content-types/count",
+      "handler": "catto-content-type.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/catto-content-types/:id",
+      "handler": "catto-content-type.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/catto-content-types",
+      "handler": "catto-content-type.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/catto-content-types/:id",
+      "handler": "catto-content-type.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/catto-content-types/:id",
+      "handler": "catto-content-type.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
