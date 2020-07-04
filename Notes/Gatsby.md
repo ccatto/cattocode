@@ -31,7 +31,19 @@ npm install -g gatsby-cli
 
 `gatsby-plugin-sass`
 
-3 Change style file from .css to .sass
+3. Change style file from .css to .sass
+
+#### Components: 
 
 
+#### Running App Local
+
+* `npm start` || `npm develop`
+* Navigate to `http://localhost:8000`
+* if port in use: `sudo lsof -i :8000`
+* kill process `sudo kill -9 111` where 111 is PID
+
+
+#### Creating New Gatsby Site:
+* gatsby new [SITE_DIRECTORY_NAME] [URL_OF_STARTER_GITHUB_REPO]
 
