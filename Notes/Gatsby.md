@@ -47,3 +47,4 @@ npm install -g gatsby-cli
 #### Creating New Gatsby Site:
 * gatsby new [SITE_DIRECTORY_NAME] [URL_OF_STARTER_GITHUB_REPO]
 
+#### Gatsby components next
