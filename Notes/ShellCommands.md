@@ -20,3 +20,4 @@ pma_agent 154 root   29u  IPv6 0xc697b87ebaa5d687      0t0  TCP *:irdmi (LISTEN)
 * pwd - Print working directory
 * cd - change directory
 
+#### killall -9 node
