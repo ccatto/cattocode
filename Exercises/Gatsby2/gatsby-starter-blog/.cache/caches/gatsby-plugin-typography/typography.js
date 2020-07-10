@@ -1,0 +1,1 @@
+module.exports = require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/Gatsby2/gatsby-starter-blog/src/utils/typography")
