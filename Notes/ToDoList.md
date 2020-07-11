@@ -10,9 +10,13 @@
 * Gatsby Deployment 
 * js.next
 * favicon catto
-* absolute imports  
+* absolute imports - this needs some work
 * code formating alt+Shift+F 
 * VS code hotkeys
 * Linting js linting rules! 
 * Lighthouse audit in google dev tools
 * MetaData & Helmet
+* Images gatsby-plugin-sharp ? maybe checkot this plugin
+* investigate gatsby-source-filesystem to alias file folders for easier import i tink;
+
+
