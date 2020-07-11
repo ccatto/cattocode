@@ -1,6 +1,9 @@
 var plugins = [{
       plugin: require('/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
+    },{
+      plugin: require('/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/node_modules/gatsby-plugin-google-fonts-v2/gatsby-ssr'),
+      options: {"plugins":[],"fonts":[{"family":"Roboto Mono","variable":true,"weights":["200..900"]},{"family":"limelight","weights":["700"]},{"family":"Titillium","variable":true,"weights":["200..900"]}],"display":"swap"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

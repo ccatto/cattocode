@@ -119,3 +119,51 @@ class Application extends React.Component {
   }
 }
 ````
+
+#### Google Fonts v2 
+* Install plugin `npm install gatsby-plugin-google-fonts-v2` 
+* page: https://www.gatsbyjs.org/packages/gatsby-plugin-google-fonts-v2/
+* add to gatsby config: 
+Here is a long example of more than one font & weights:
+````
+    {
+      resolve: `gatsby-plugin-google-fonts-v2`,
+      options: {
+        fonts: [
+          {
+            family: 'Roboto Mono',
+            variable: true,
+            weights: ['200..900']
+          },
+          {
+            family: 'limelight',
+            weights: ['700']
+          },
+          {
+            family: 'Titillium',
+            variable: true,
+            weights: ['200..900']
+          }
+        ],
+        display: "swap",
+      },
+    }
+````
+
+#### Plugin - gatsby-source-filesystem
+
+* install plugin `npm install --save gatsby-source-filesystem`
+* page: https://www.gatsbyjs.org/packages/gatsby-source-filesystem/?=
+* update gatsby-config.js:
+````
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/pages/`,
+      },
+    }
+````
+
+
+
