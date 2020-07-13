@@ -18,5 +18,11 @@
 * MetaData & Helmet
 * Images gatsby-plugin-sharp ? maybe checkot this plugin
 * investigate gatsby-source-filesystem to alias file folders for easier import i tink;
+* Bootstrap 4 in React / gatsby
+* sub-components 
+* understand prop {children} better
+* sass @import & global variables 
+* github code review pr's
+
 
 
