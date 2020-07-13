@@ -34,4 +34,7 @@ module.exports = {
       },
     }
   ],
+  siteMetadata: {
+    title: 'Catto Gatsby test title',
+  },
 }
