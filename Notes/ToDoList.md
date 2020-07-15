@@ -23,6 +23,6 @@
 * understand prop {children} better
 * sass @import & global variables 
 * github code review pr's
-
+* Create simple style with a few pages with header/footer/middle. 
 
 
