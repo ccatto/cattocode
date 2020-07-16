@@ -2,9 +2,11 @@ import React from "react"
 import styles from "./footer.module.scss"
 
 export default () => (
-  <footer>
-    <div className={styles.footer}>
+  <footer className="container-fluid">
+    <div className="fixed-bottom">
+      <div className={styles.footer}>
         Footer
+      </div>
     </div>
   </footer>
 )
