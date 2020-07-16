@@ -21,3 +21,17 @@ pma_agent 154 root   29u  IPv6 0xc697b87ebaa5d687      0t0  TCP *:irdmi (LISTEN)
 * cd - change directory
 
 #### killall -9 node
+
+
+#### Clear All
+* Cmd+K 
+
+#### bash_profile Alias
+* There is a .bash_profile file on mac 
+* it's a hidden file so on finder use `Cmd+Shift+.` to show / hide all hidden files;
+* We can adda line to alias such as:
+
+````
+alias cdgit='cd Documents/GitHub'
+````
+* then to relaod the file with out resterating utilize: `source ~/.bash_profile`

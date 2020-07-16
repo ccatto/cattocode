@@ -165,5 +165,14 @@ Here is a long example of more than one font & weights:
     }
 ````
 
+#### React Bootstrap
+
+* trying to figure this out
+* ran `npm install react-bootstrap bootstrap --save`
 
 
+* Optional Dependencies
+These libraries are not included in the main distribution file reactstrap.min.js and need to be manually included when using components that require transitions or popover effects (e.g. Tooltip, Modal, etc).
+
+* react-transition-group
+* react-popper
