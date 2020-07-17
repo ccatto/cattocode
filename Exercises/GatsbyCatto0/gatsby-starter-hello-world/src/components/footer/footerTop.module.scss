@@ -1,0 +1,55 @@
+.footerTop {
+  height: 82px;
+  background-color: #298FC2;
+  color: #F2F2F2;
+}
+.flexRow3ColGutters {
+  display: flex;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.flexRowWrap {
+  display: flex;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+}
+.height80px {
+  height: 80px;
+}
+.width49per {
+  width: 49%;
+}
+.width2per {
+  width: 2%;
+}
+.textAlignLeft {
+  text-align: left;
+}
+
+.textAlignRight {
+  text-align: right;
+}
+.height60px {
+  height: 60px;
+}

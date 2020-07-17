@@ -176,3 +176,6 @@ These libraries are not included in the main distribution file reactstrap.min.js
 
 * react-transition-group
 * react-popper
+
+* combining bootstrap css class & a css modules class Example:
+* className={``${styles.cattoTopThinBar} row``}

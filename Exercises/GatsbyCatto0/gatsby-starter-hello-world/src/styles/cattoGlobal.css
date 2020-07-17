@@ -3,6 +3,9 @@ body {
     font-family: 'Titillium', sans-serif;
     font-weight:200;
     margin: 0;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 .limelight{
     font-family: 'limelight', sans-serif;
@@ -11,3 +14,28 @@ body {
     font-family: 'Roboto Mono', sans-serif;
 }
 
+.flexRowNoWrap {
+    display: flex;
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+}
+
+.justifyContentFlexEnd {
+    justify-content: flex-end;
+}
+
+.square30 {
+    width: 30px;
+    height: 30px;
+}
