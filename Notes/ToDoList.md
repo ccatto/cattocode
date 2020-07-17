@@ -24,6 +24,7 @@
 * sass @import & global variables 
 * github code review pr's
 * Create simple style with a few pages with header/footer/middle. 
-* Sticky Footer - `padding-bottom: xxpx;` on body tag to ensure footer is "pushed donw"  
-
+* Sticky Footer - `padding-bottom: xxpx;` on body tag to ensure footer is "pushed donw" 
+* Bash Profile editing & using alias docs 
+* scrolling nav bar sticky;
 
