@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet"
 // import favicon from `../static/favicon.ico`
 import Layout from "../components/layout"
 // import Header from "../components/header"
-import Main from "../components/main"
+// import Main from "../components/main"
 // import Footer from "../components/footer/footer"
 
 export default function Home() {

@@ -3,7 +3,7 @@ import styles from "./footerSocial.module.scss"
 
 export default () => (
 
-      <div className={styles.footerSocial}>
+      <div className={`${styles.footerSocial} d-flex`}>
         <h3> Footer Social </h3>
         <ul className="flexRowNoWrap justifyContentFlexEnd" >
         <li className="width10px"></li>
