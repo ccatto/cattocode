@@ -1,5 +1,5 @@
 import React from "react"
-// import styles from "./navbar.module.scss"
+import styles from "./navbar.module.scss"
 import { nav, button } from "react-bootstrap"
 import { Link } from "gatsby"
 

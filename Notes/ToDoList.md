@@ -27,4 +27,7 @@
 * Sticky Footer - `padding-bottom: xxpx;` on body tag to ensure footer is "pushed donw" 
 * Bash Profile editing & using alias docs 
 * scrolling nav bar sticky;
+* Mobile Nav / 
+* refactor header & nav components to sub folder;
+* 
 

@@ -179,3 +179,10 @@ These libraries are not included in the main distribution file reactstrap.min.js
 
 * combining bootstrap css class & a css modules class Example:
 * className={``${styles.cattoTopThinBar} row``}
+
+#### Boostrap 4 (should break into separate page)
+
+* Nice Link: [Bootstrap 4 Layout Grid official page](https://getbootstrap.com/docs/4.0/layout/grid/)
+* full width row 
+    *  <div class="row"></div>
+* 2 column
