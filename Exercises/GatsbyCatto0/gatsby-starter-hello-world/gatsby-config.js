@@ -35,6 +35,15 @@ module.exports = {
     }
   ],
   siteMetadata: {
-    title: 'Catto Gatsby test title',
+    title: `Catto Gatsby test title`,
+    author: {
+      name: `Chris Catto`,
+      summary: `Software Developer`,
+    },
+    description: `A starter website demonstrating what Gatsby can do.`,
+    siteUrl: `https://github.com/ccatto/cattocode`,
+    social: {
+      twitter: `ccatto`,
+    },
   },
 }

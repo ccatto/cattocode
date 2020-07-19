@@ -29,5 +29,8 @@
 * scrolling nav bar sticky;
 * Mobile Nav / 
 * refactor header & nav components to sub folder;
-* 
+* Exersice more with utilities such as title
+* Bootstrap Grid Layouts 
+* State & Authentication
+* Google Analytics tracking
 

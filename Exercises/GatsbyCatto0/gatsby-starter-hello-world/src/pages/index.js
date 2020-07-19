@@ -14,7 +14,10 @@ export default function Home() {
         <meta charSet="utf-8" />
         <title>Catto Tomato Hello World Page Title</title>
       </Helmet>
-      <h2>Home Catto</h2>
+      <div className="text-center">
+        <h2>Home Catto</h2>
+        <p>This is the home page</p>
+      </div>
     </Layout>
   )
 }
