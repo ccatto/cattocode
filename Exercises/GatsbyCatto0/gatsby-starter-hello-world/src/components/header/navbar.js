@@ -46,7 +46,12 @@ export default () => (
             <Link className="nav-link" to="/profile">
               Profile{" "}
             </Link>
-          </li>                           
+          </li>
+          <li class="nav-item">
+            <Link className="nav-link" to="/account">
+              Account{" "}
+            </Link>
+          </li>
         </ul>
       </div>
     </div>

@@ -186,3 +186,12 @@ These libraries are not included in the main distribution file reactstrap.min.js
 * full width row 
     *  <div class="row"></div>
 * 2 column
+
+
+#### Auth0 Adding Authentication
+* https://auth0.com/blog/securing-gatsby-with-auth0/
+* In Auth0 account after creating app added the following:
+* Add http://localhost:8000/callback to the Allowed Callback URLs field.
+* Add http://localhost:8000 to Allowed Web Origins and Allowed Logout URLs.
+* Installed `npm i auth0-js`
+* 
