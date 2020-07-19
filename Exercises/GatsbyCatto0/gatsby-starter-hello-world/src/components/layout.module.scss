@@ -1,8 +1,18 @@
-.zzzCotContainer {
-    margin: 0 auto;
-    // max-width: 960px;
-    // padding: 10px;
-}
-.minHeight{
+.cattoMinHeight{
     min-height: 400px;
+}
+.catto-width-two-per{
+	width:2%;
+}
+.cattoWidth2Per{
+	width:2%;
+}
+.cattoWidth98per{
+	width:98%;
+}
+.cattoHorizontalBlackToOrange {
+	background: linear-gradient(to right, black, #202020, #303030, #505050, orange );
+}
+.cattoHorizontalOrangeToBlack {
+	background: linear-gradient(to right, orange, #505050, #303030,	#202020, black );
 }
