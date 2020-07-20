@@ -97,3 +97,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+
+* There is a file `./.env.development` that is added & not in source control;
+# ./.env.development
+# Get these values at https://manage.auth0.com
+AUTH0_DOMAIN=<value>
+AUTH0_CLIENTID=<value>
+AUTH0_CALLBACK=http://localhost:8000/callback
