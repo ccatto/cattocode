@@ -194,4 +194,15 @@ These libraries are not included in the main distribution file reactstrap.min.js
 * Add http://localhost:8000/callback to the Allowed Callback URLs field.
 * Add http://localhost:8000 to Allowed Web Origins and Allowed Logout URLs.
 * Installed `npm i auth0-js`
-* 
+* Added a file `.env.development` which includes:
+````
+# ./.env.development
+# Get these values at https://manage.auth0.com
+AUTH0_DOMAIN=<value>
+AUTH0_CLIENTID=<value>
+AUTH0_CALLBACK=http://localhost:8000/callback
+
+````
+This file does not get checked in to git;
+* Added a file: `src/utils/auth.js`
+* updated `gatsby-node.js` the `onCreateWebpackConfig` with some Auth0 code;

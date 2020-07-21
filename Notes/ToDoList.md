@@ -33,4 +33,5 @@
 * Bootstrap Grid Layouts 
 * State & Authentication
 * Google Analytics tracking
-
+* running develop localy how to check if port is in use & get propmted to use another 
+* Auth Zero vs. FireBase w/ Google Auth
