@@ -206,3 +206,13 @@ AUTH0_CALLBACK=http://localhost:8000/callback
 This file does not get checked in to git;
 * Added a file: `src/utils/auth.js`
 * updated `gatsby-node.js` the `onCreateWebpackConfig` with some Auth0 code;
+
+#### Client-only Routes & User Auth
+* [Gatsby's Client-only Routs & Auth](https://www.gatsbyjs.org/docs/client-only-routes-and-user-authentication/)
+* @reach/router is installed & it's recommended approach to create client-only routes
+* src/pages/app.js 
+
+
+#### Firebase
+
+* [good tutorial to set up firebase dashboard admin](https://www.robinwieruch.de/firebase-tutorial)
