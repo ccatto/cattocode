@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "path": "/account/",
+        "matchPath": "/account/"
+    },
+    {
+        "path": "/app/",
+        "matchPath": "/account/*"
+    }
+]
