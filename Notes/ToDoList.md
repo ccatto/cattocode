@@ -36,4 +36,4 @@
 * running develop localy how to check if port is in use & get propmted to use another 
 * Auth Zero vs. FireBase w/ Google Auth
 * FireBase Google focus Thursday ~
-
+* Friday 2020 July 24th Taylor Swift dropped Folklore album & let us continue on Authentication 
