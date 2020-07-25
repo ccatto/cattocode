@@ -37,3 +37,4 @@
 * Auth Zero vs. FireBase w/ Google Auth
 * FireBase Google focus Thursday ~
 * Friday 2020 July 24th Taylor Swift dropped Folklore album & let us continue on Authentication 
+* Inspect firebase admin console
