@@ -39,3 +39,4 @@
 * Friday 2020 July 24th Taylor Swift dropped Folklore album & let us continue on Authentication 
 * Inspect firebase admin console
 * Protected routes needed.
+* StrAPI exercises needed.
