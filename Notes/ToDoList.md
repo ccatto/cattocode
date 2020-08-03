@@ -40,4 +40,4 @@
 * Inspect firebase admin console
 * Protected routes needed.
 * StrAPI exercises needed.
-* Do Something; Please do something; please;
+* Do Something; Please do something; please; carpe diem
