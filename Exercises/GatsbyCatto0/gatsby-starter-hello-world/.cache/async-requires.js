@@ -8,6 +8,7 @@ exports.components = {
   "component---src-pages-about-js": () => import("./../src/pages/about.js" /* webpackChunkName: "component---src-pages-about-js" */),
   "component---src-pages-account-js": () => import("./../src/pages/account.js" /* webpackChunkName: "component---src-pages-account-js" */),
   "component---src-pages-app-js": () => import("./../src/pages/app.js" /* webpackChunkName: "component---src-pages-app-js" */),
+  "component---src-pages-app-profile-js": () => import("./../src/pages/app/profile.js" /* webpackChunkName: "component---src-pages-app-profile-js" */),
   "component---src-pages-auth-app-js": () => import("./../src/pages/authApp.js" /* webpackChunkName: "component---src-pages-auth-app-js" */),
   "component---src-pages-auth-js": () => import("./../src/pages/auth.js" /* webpackChunkName: "component---src-pages-auth-js" */),
   "component---src-pages-code-js": () => import("./../src/pages/code.js" /* webpackChunkName: "component---src-pages-code-js" */),

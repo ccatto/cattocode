@@ -6,5 +6,9 @@
     {
         "path": "/app/",
         "matchPath": "/account/*"
+    },
+    {
+        "path": "/app/profile/",
+        "matchPath": "/account/*"
     }
 ]

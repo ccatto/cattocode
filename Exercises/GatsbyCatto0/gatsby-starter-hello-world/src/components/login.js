@@ -26,7 +26,7 @@ class Login extends React.Component {
 
     return (
       <>
-        <h1>Log in</h1>
+        <h1>catto - Log in</h1>
         <form
           method="post"
           onSubmit={event => {
@@ -35,7 +35,7 @@ class Login extends React.Component {
           }}
         >
           <label>
-            Username
+            K8 - Username
             <input type="text" name="username" onChange={this.handleUpdate} />
           </label>
           <label>
