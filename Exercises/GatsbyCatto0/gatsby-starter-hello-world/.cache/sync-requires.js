@@ -11,6 +11,7 @@ exports.components = {
   "component---src-pages-about-js": hot(preferDefault(require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/src/pages/about.js"))),
   "component---src-pages-account-js": hot(preferDefault(require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/src/pages/account.js"))),
   "component---src-pages-app-js": hot(preferDefault(require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/src/pages/app.js"))),
+  "component---src-pages-app-profile-js": hot(preferDefault(require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/src/pages/app/profile.js"))),
   "component---src-pages-auth-app-js": hot(preferDefault(require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/src/pages/authApp.js"))),
   "component---src-pages-auth-js": hot(preferDefault(require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/src/pages/auth.js"))),
   "component---src-pages-code-js": hot(preferDefault(require("/Users/uy00413/Documents/GitHub/CattoCode/CattoCode/Exercises/GatsbyCatto0/gatsby-starter-hello-world/src/pages/code.js"))),

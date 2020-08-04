@@ -5,6 +5,7 @@ import Profile from "../components/Profile"
 // import Details from "../components/Details"
 import Login from "../components/Login"
 // import Default from "../components/Default"
+import PrivateRoute from "../components/privateRoute"
 // import PrivateRoute from "../components/utilities/privateRoute"
 
 const App = () => {
@@ -12,9 +13,10 @@ const App = () => {
     <Layout>
       <Router basepath="/app">
         {/* <Profile path="/profile" /> */}
-        {/* <PrivateRoute path="/profile" component={Profile} /> */}
+        <PrivateRoute path="/profile" component={Profile} />
         {/* <Details path="/details" /> */}
         <Login path="/login" />
+        
         {/* <Default path="/" /> */}
       </Router>
     </Layout>
