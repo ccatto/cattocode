@@ -41,4 +41,4 @@
 * Protected routes needed.
 * StrAPI exercises needed.
 * Do Something; Please do something; please; carpe diem
-* do something next like authentication;
+* do something next like authentication; pls;
