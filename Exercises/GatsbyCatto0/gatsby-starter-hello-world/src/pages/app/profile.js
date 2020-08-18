@@ -6,7 +6,7 @@ import { Helmet } from "react-helmet"
 
 export default function Profile() {
   return (
-``      <div className="text-center">
+      <div className="text-center">
         <h1>Profile me</h1>
         <p>Let's do some exersices for authentication & client-only routes!</p>
       </div>
