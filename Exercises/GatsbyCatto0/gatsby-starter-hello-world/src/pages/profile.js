@@ -10,10 +10,7 @@ export default function Profile() {
       <Helmet>
         <title>Profile Page</title>
       </Helmet>
-      <div className="text-center">
-        <h1>Profile me</h1>
-        <p>Let's do some exersices for authentication & client-only routes!</p>
-      </div>
+
     </Layout>
   )
 }
